@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<calc>
+	<expression operation="+">
+		<num1>3</num1>
+		<num2>5</num2>
+	</expression>
+	
+	<expression operation="-">
+		<num1>3</num1>
+		<num2>5</num2>
+	</expression>
+	
+	<expression operation="*">
+		<num1>3</num1>
+		<num2>5</num2>
+	</expression>
+	
+	<expression operation="/">
+		<num1>3</num1>
+		<num2>100</num2>
+	</expression>
+</calc>
